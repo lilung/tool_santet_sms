@@ -12,6 +12,6 @@ $ cd tool_santet_sms
 
 $ bash santet.sh
 
-Jangan di recode bro dari pada lu recode mending lu belajar coding aja di www.codesaya.com biar bisa buat tool sendiri
+Jangan di recode bro dari pada lu recode mending lu belajar coding aja di www.codesaya.com biar bisa buat tool sendiri gratis
 
-Jangan lupa juga subscribe yotube lilung project oke
+Jangan lupa juga subscribe youtube lilung project oke
